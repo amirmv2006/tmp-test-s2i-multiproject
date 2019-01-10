@@ -7,6 +7,7 @@
     <groupId>ir.amv.snippets.s2i</groupId>
     <artifactId>tmp-test-s2i-multiproject</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>spring-app</module>
